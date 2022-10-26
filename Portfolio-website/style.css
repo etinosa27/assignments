@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+nav{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;   
+}
+h2, img{
+    display: flex;
+    align-items: center;
+}
+body{
+    width: 60%;
+}
+input, textarea{
+    width: 100%;
+}
+label{
+    width: 100%;
+}
+body{
+    background-color: aqua;
+}
+.name{
+  font-style: italic;
+}
